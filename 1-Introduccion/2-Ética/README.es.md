@@ -180,82 +180,83 @@ Here are a few examples:
 | **Consentimiento informado** | 1972 - [Estudio de sífilis de Tuskegee](https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study) -  A los hombres afroamericanos que participaron en el estudio se les prometió atención médica gratuita, pero los investigadores los engañaron y no informaron a los sujetos sobre su diagnóstico ni sobre la disponibilidad del tratamiento. Muchos sujetos murieron y sus parejas o niños resultaron afectados; el estudio duró 40 años. | 
 | **Privacidad de datos** |  2007 - El [premio de datos de Netflix](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/) proporcionó a los investigadores 10 millones de clasificaciones de películas anónimas de 50.000 clientes para ayudar a mejorar los algoritmos de recomendación. Sin embargo, los investigadores pudieron correlacionar datos anónimos con datos de identificación personal en conjuntos de datos externos (por ejemplo, comentarios de IMDb), "desanonimizando" efectivamente a algunos suscriptores de Netflix.|
 | **Sesgo de colección**  | 2013 -  la ciudad de Boston [desarrolló Street Bump](https://www.boston.gov/transportation/street-bump), una aplicación que permitía a los ciudadanos informar sobre baches, brindando a la ciudad mejores datos sobre las carreteras para encontrar y solucionar problemas. Sin embargo, [las personas de los grupos de ingresos más bajos tenían menos acceso a automóviles y teléfonos](https://hbr.org/2013/04/the-hidden-biases-in-big-data), lo que hacía que sus problemas viales fueran invisibles en esta aplicación. Los desarrolladores trabajaron con académicos para abordar cuestiones de equidad en materia de acceso equitativo y brechas digitales. |
-| **Equidad algorítmica**  | 2018 - The MIT [Gender Shades Study](http://gendershades.org/overview.html) evaluated the accuracy of gender classification AI products, exposing gaps in accuracy for women and persons of color. A [2019 Apple Card](https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/) seemed to offer less credit to women than men. Both illustrated issues in algorithmic bias leading to socio-economic harms.|
-| **Tergiversación de datos** | 2020 - The [Georgia Department of Public Health released COVID-19 charts](https://www.vox.com/covid-19-coronavirus-us-response-trump/2020/5/18/21262265/georgia-covid-19-cases-declining-reopening) that appeared to mislead citizens about trends in confirmed cases with non-chronological ordering on the x-axis. This illustrates misrepresentation through visualization tricks. |
-| **Ilusión de libre elección** | 2020 - Learning app [ABCmouse paid $10M to settle an FTC complaint](https://www.washingtonpost.com/business/2020/09/04/abcmouse-10-million-ftc-settlement/) where parents were trapped into paying for subscriptions they couldn't cancel. This illustrates dark patterns in choice architectures, where users were nudged towards potentially harmful choices. |
-| **Privacidad de datos y derechos del usuario** | 2021 - Facebook [Data Breach](https://www.npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users) exposed data from 530M users, resulting in a $5B settlement to the FTC. It however refused to notify users of the breach violating user rights around data transparency and access. |
+| **Equidad algorítmica**  | 2018 - El [estudio Gender Shades](http://gendershades.org/overview.html) del MIT evaluó la precisión de los productos de IA de clasificación de género, exponiendo brechas en la precisión para mujeres y personas de color. Una [Apple Card de 2019](https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/) parecía ofrecer menos crédito a las mujeres que a los hombres. Ambos ilustraron problemas de sesgo algorítmico que conducen a daños socioeconómicos. |
+| **Tergiversación de datos** | 2020 - El [Departamento de Salud Pública de Georgia publicó gráficos de COVID-19](https://www.vox.com/covid-19-coronavirus-us-response-trump/2020/5/18/21262265/georgia-covid-19-cases-declining-reopening) que parecían engañar a los ciudadanos sobre las tendencias en los casos confirmados con un orden no cronológico en el eje x. Esto ilustra la tergiversación mediante trucos de visualización. |
+| **Ilusión de libre elección** | 2020 -  la aplicación de aprendizaje [ABCmouse pagó 10 millones de dólares para resolver una queja de la FTC](https://www.washingtonpost.com/business/2020/09/04/abcmouse-10-million-ftc-settlement/) en la que los padres se vieron atrapados en el pago de suscripciones que no podían cancelar. Esto ilustra patrones oscuros en las arquitecturas de elección, donde los usuarios fueron empujados hacia elecciones potencialmente dañinas. |
+| **Privacidad de datos y derechos del usuario** | 2021 - [La filtración de datos](https://www.npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users) de Facebook expuso datos de 530 millones de usuarios, lo que resultó en un acuerdo de 5 mil millones de dólares para la FTC. Sin embargo, se negó a notificar a los usuarios sobre la infracción que violaba los derechos de los usuarios en materia de transparencia y acceso a los datos. |
 
 Want to explore more case studies? Check out these resources:
-* [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-studies) - ethics dilemmas across diverse industries. 
-* [Data Science Ethics course](https://www.coursera.org/learn/data-science-ethics#syllabus) - landmark case studies explored.
-* [Where things have gone wrong](https://deon.drivendata.org/examples/) - deon checklist with examples
+* [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-studies) - dilemas éticos en diversas industrias.
+* [Curso de ética de la ciencia de datos :](https://www.coursera.org/learn/data-science-ethics#syllabus) - exploración de estudios de casos emblemáticos.
+* [Where things have gone wrong](https://deon.drivendata.org/examples/) - lista de verificación de Deon con ejemplos.
 
-> 🚨 Think about the case studies you've seen - have you experienced, or been affected by, a similar ethical challenge in your life? Can you think of at least one other case study that illustrates one of the ethical challenges we've discussed in this section?
+> 🚨 Piensa en los estudios de casos que has visto: ¿has experimentado o te has visto afectado por un desafío ético similar en tu vida? ¿Se le ocurre al menos otro estudio de caso que ilustre uno de los desafíos éticos que hemos discutido en esta sección?
 
-## Applied Ethics
+## Ética Aplicada
 
-We've talked about ethics concepts, challenges ,and case studies in real-world contexts. But how do we get started _applying_ ethical principles and practices in our projects? And how do we _operationalize_ these practices for better governance? Let's explore some real-world solutions: 
+Hemos hablado sobre conceptos, desafíos y estudios de casos de ética en contextos del mundo real. Pero, ¿cómo empezamos a aplicar principios y prácticas éticas en nuestros proyectos? ¿Y cómo ponemos en práctica estas prácticas para una mejor gobernanza? Exploremos algunas soluciones del mundo real:
 
-### 1. Professional Codes
+### 1. Códigos Profesionales
 
-Professional Codes offer one option for organizations to "incentivize" members to support their ethical principles and mission statement. Codes are _moral guidelines_ for professional behavior, helping employees or members make decisions that align with their organization's principles. They are only as good as the voluntary compliance from members; however, many organizations offer additional rewards and penalties to motivate compliance from members.
+Los códigos profesionales ofrecen una opción para que las organizaciones "incentiven" a sus miembros a apoyar sus principios éticos y su declaración de misión. Los códigos son pautas morales para el comportamiento profesional, que ayudan a los empleados o miembros a tomar decisiones que se alineen con los principios de su organización. Son tan buenos como el cumplimiento voluntario de los miembros; sin embargo, muchas organizaciones ofrecen recompensas y sanciones adicionales para motivar el cumplimiento por parte de los miembros.
 
-Examples include:
+Ejemplos incluyen:
 
- * [Oxford Munich](http://www.code-of-ethics.org/code-of-conduct/) Code of Ethics
- * [Data Science Association](http://datascienceassn.org/code-of-conduct.html) Code of Conduct (created 2013)
- * [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) (since 1993)
+ * Código de ética de [Oxford Munich](http://www.code-of-ethics.org/code-of-conduct/) .
+ * Código de conducta [de la Asociación de ciencia de datos (creado en 2013)](http://datascienceassn.org/code-of-conduct.html). 
+ * [Código de Ética y Conducta Profesional de ACM](https://www.acm.org/code-of-ethics) (desde 1993)
 
-> 🚨 Do you belong to a professional engineering or data science organization? Explore their site to see if they define a professional code of ethics. What does this say about their ethical principles? How are they "incentivizing" members to follow the code?
+> 🚨 ¿Pertenece a una organización profesional de ingeniería o ciencia de datos? Explore su sitio para ver si definen un código de ética profesional. ¿Qué dice esto sobre sus principios éticos? ¿Cómo están "incentivando" a los miembros a seguir el código?
 
 ### 2. Ethics Checklists
 
-While professional codes define required _ethical behavior_ from practitioners, they [have known limitations](https://resources.oreilly.com/examples/0636920203964/blob/master/of_oaths_and_checklists.md) in enforcement, particularly in large-scale projects. Instead, many data Science experts [advocate for checklists](https://resources.oreilly.com/examples/0636920203964/blob/master/of_oaths_and_checklists.md), that can **connect principles to practices** in more deterministic and actionable ways. 
+Si bien los códigos profesionales definen el comportamiento ético requerido por parte de los profesional, [tienen limitaciones conocidas](https://resources.oreilly.com/examples/0636920203964/blob/master/of_oaths_and_checklists.md) en su aplicación, particularmente en proyectos a gran escala. En cambio, muchos expertos en ciencia de datos [abogan por listas de verificación](https://resources.oreilly.com/examples/0636920203964/blob/master/of_oaths_and_checklists.md), que pueden **conectar los principios con las prácticas** de maneras más deterministas y prácticas.
 
-Checklists convert questions into "yes/no" tasks that can be operationalized, allowing them to be tracked as part of standard product release workflows. 
+Las listas de verificación convierten las preguntas en tareas de "sí/no" que se pueden poner en práctica, lo que permite realizar un seguimiento de ellas como parte de los flujos de trabajo de lanzamiento de productos estándar.
 
-Examples include:
- * [Deon](https://deon.drivendata.org/) - a general-purpose data ethics checklist created from [industry recommendations](https://deon.drivendata.org/#checklist-citations) with a command-line tool for easy integration.
- * [Privacy Audit Checklist](https://cyber.harvard.edu/ecommerce/privacyaudit.html) - provides general guidance for information handling practices from legal and social exposure perspectives.
- * [AI Fairness Checklist](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/) - created by AI practitioners to support the adoption and integration of fairness checks into AI development cycles.
- * [22 questions for ethics in data and AI](https://medium.com/the-organization/22-questions-for-ethics-in-data-and-ai-efb68fd19429) - more open-ended framework, structured for initial exploration of ethical issues in design, implementation, and organizational, contexts.
+Ejemplos incluyen:
+ * [Deon](https://deon.drivendata.org/) - una lista de verificación de ética de datos de uso general creada a partir de [recomendaciones de la industria](https://deon.drivendata.org/#checklist-citations) con una herramienta de línea de comandos para una fácil integración.
+ * [Lista de verificación de auditoría de privacidad](https://cyber.harvard.edu/ecommerce/privacyaudit.html) - proporciona orientación general para las prácticas de manejo de información desde perspectivas de exposición legal y social.
+ * [Lista de verificación de equidad de IA](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/) - creada por profesionales de la IA para respaldar la adopción e integración de controles de equidad en los ciclos de desarrollo de la IA.
+ * [22 preguntas sobre ética en datos e IA](https://medium.com/the-organization/22-questions-for-ethics-in-data-and-ai-efb68fd19429) - marco más abierto, estructurado para la exploración inicial de cuestiones éticas en contextos de diseño, implementación y organización.
 
-### 3. Ethics Regulations
+### 3. Normas de Ética
 
-Ethics is about defining shared values and doing the right thing _voluntarily_. **Compliance** is about _following the law_ if and where defined. **Governance** broadly covers all the ways in which organizations operate to enforce ethical principles and comply with established laws.
+La ética consiste en definir valores compartidos y hacer lo correcto de forma voluntaria. **El cumplimiento**  consiste en seguir la ley siempre y cuando esté definida. **La gobernanza** cubre ampliamente todas las formas en que las organizaciones operan para hacer cumplir los principios éticos y cumplir con las leyes establecidas.
 
-Today, governance takes two forms within organizations. First, it's about defining **ethical AI** principles and establishing practices to operationalize adoption across all AI-related projects in the organization. Second, it's about complying with all government-mandated **data protection regulations** for regions it operates in.
+Hoy en día, la gobernanza adopta dos formas dentro de las organizaciones. En primer lugar, se trata de definir principios **éticos de IA**  y establecer prácticas para operacionalizar la adopción en todos los proyectos relacionados con la IA en la organización. En segundo lugar, se trata de cumplir con todas **las normas de protección de datos** exigidas por el gobierno para las regiones en las que opera.
 
-Examples of data protection and privacy regulations:
+Ejemplos de normativa de protección de datos y privacidad:
 
- * `1974`, [US Privacy Act](https://www.justice.gov/opcl/privacy-act-1974) - regulates _federal govt._ collection, use ,and disclosure of personal information.
- * `1996`, [US Health Insurance Portability & Accountability Act (HIPAA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html) - protects personal health data.
- * `1998`, [US Children's Online Privacy Protection Act (COPPA)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) - protects data privacy of children under 13.
- * `2018`, [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) - provides user rights, data protection ,and privacy.
- * `2018`, [California Consumer Privacy Act (CCPA)](https://www.oag.ca.gov/privacy/ccpa) gives consumers more _rights_ over their (personal) data.
- * `2021`, China's [Personal Information Protection Law](https://www.reuters.com/world/china/china-passes-new-personal-data-privacy-law-take-effect-nov-1-2021-08-20/) just passed, creating one of the strongest online data privacy regulations worldwide.
+ * `1974`, [Ley de Privacidad de EE. UU](https://www.justice.gov/opcl/privacy-act-1974) - regulates _federal govt._ collection, use ,and disclosure of personal information.
+ * `1996`, [Ley de Responsabilidad y Portabilidad del Seguro Médico de EE. UU. (HIPAA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html) -  protege los datos de salud personales.
+ * `1998`, [Ley de protección de la privacidad infantil en línea de EE. UU. (COPPA)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) - protege la privacidad de los datos de niños menores de 13 años.
+ * `2018`, [Reglamento general de protección de datos (GDPR)](https://gdpr-info.eu/) - proporciona derechos de usuario, protección de datos y privacidad.
+ * `2018`, [La Ley de Privacidad del Consumidor de California (CCPA)](https://www.oag.ca.gov/privacy/ccpa)  otorga a los consumidores más derechos sobre sus datos (personales).
+ * `2021`, Acaba de aprobarse [la Ley de Protección de Información Personal](https://www.reuters.com/world/china/china-passes-new-personal-data-privacy-law-take-effect-nov-1-2021-08-20/) de China , que crea una de las regulaciones de privacidad de datos en línea más estrictas del mundo.
 
-> 🚨 The European Union defined GDPR (General Data Protection Regulation) remains one of the most influential data privacy regulations today. Did you know it also defines [8 user rights](https://www.freeprivacypolicy.com/blog/8-user-rights-gdpr) to protect citizens' digital privacy and personal data? Learn about what these are, and why they matter.
+> 🚨  El RGPD (Reglamento General de Protección de Datos) definido por la Unión Europea sigue siendo una de las regulaciones de privacidad de datos más influyentes en la actualidad. ¿Sabías que también define [8 derechos de los usuarios ](https://www.freeprivacypolicy.com/blog/8-user-rights-gdpr) para proteger la privacidad digital y los datos personales de los ciudadanos? Aprenda qué son y por qué son importantes.
 
 
-### 4. Ethics Culture
+### 4. Cultura ética
 
-Note that there remains an intangible gap between _compliance_ (doing enough to meet "the letter of the law") and addressing [systemic issues](https://www.coursera.org/learn/data-science-ethics/home/week/4) (like ossification, information asymmetry, and distributional unfairness) that can speed up the weaponization of AI. 
+Tenga en cuenta que sigue existiendo una brecha intangible entre el cumplimiento (hacer lo suficiente para cumplir "la letra de la ley") y abordar [cuestiones sistémicas](https://www.coursera.org/learn/data-science-ethics/home/week/4)  (como la osificación, la asimetría de la información y la injusticia distributiva) que pueden acelerar el uso de la IA como arma. 
 
-The latter requires [collaborative approaches to defining ethics cultures](https://towardsdatascience.com/why-ai-ethics-requires-a-culture-driven-approach-26f451afa29f) that build emotional connections and consistent shared values _across organizations_ in the industry. This calls for more [formalized data ethics cultures](https://www.codeforamerica.org/news/formalizing-an-ethical-data-culture/) in organizations - allowing _anyone_ to [pull the Andon cord](https://en.wikipedia.org/wiki/Andon_(manufacturing)) (to raise ethics concerns early in the process) and making _ethical assessments_ (e.g., in hiring) a core criteria team formation in AI projects.
+Esto último requiere [collaborative approaches to defining ethics cultures](https://towardsdatascience.com/why-ai-ethics-requires-a-culture-driven-approach-26f451afa29f) que creen conexiones emocionales y valores compartidos consistentes entre las organizaciones de la industria. Esto exige [culturas de ética de datos más formalizadas](https://www.codeforamerica.org/news/formalizing-an-ethical-data-culture/) en las organizaciones, permitiendo a cualquiera tirar [del cordón de Andon](https://en.wikipedia.org/wiki/Andon_(manufacturing))  (para plantear inquietudes éticas en las primeras etapas del proceso) y hacer de las evaluaciones éticas (por ejemplo, en la contratación) un criterio central en la formación del equipo en proyectos de IA.
 
 ---
 ## [Post-lecture quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/3) 🎯
-## Review & Self Study 
 
-Courses and books help with understanding core ethics concepts and challenges, while case studies and tools help with applied ethics practices in real-world contexts. Here are a few resources to start with.
+## Revisión y autoestudio
 
-* [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/3-fairness/README.md) - lesson on Fairness, from Microsoft.
-* [Principles of Responsible AI](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/) - free learning path from Microsoft Learn.
-* [Ethics and Data Science](https://resources.oreilly.com/examples/0636920203964) - O'Reilly EBook (M. Loukides, H. Mason et. al)
-* [Data Science Ethics](https://www.coursera.org/learn/data-science-ethics#syllabus) - online course from the University of Michigan.
-* [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-studies) - case studies from the University of Texas.
+Los cursos y libros ayudan a comprender los conceptos y desafíos básicos de la ética, mientras que los estudios de casos y las herramientas ayudan con las prácticas éticas aplicadas en contextos del mundo real. Aquí hay algunos recursos para comenzar.
 
-# Assignment 
+* [Machine Learning For Beginners](https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/3-fairness/README.md) - lección sobre equidad, de Microsoft.
+* [Principios de IA responsable](https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/) -  ruta de aprendizaje gratuita de Microsoft Learn.
+* [Ética y ciencia de datos](https://resources.oreilly.com/examples/0636920203964) - Libro electrónico de O'Reilly (M. Loukides, H. Mason et. al)
+* [Ética de la ciencia de datos](https://www.coursera.org/learn/data-science-ethics#syllabus) - curso en línea de la Universidad de Michigan.
+* [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-studies) - estudios de casos de la Universidad de Texas.
 
-[Write A Data Ethics Case Study](assignment.md)
+# Tarea:
+
+[Escriba un estudio de caso de ética de datos](Tarea.md).
