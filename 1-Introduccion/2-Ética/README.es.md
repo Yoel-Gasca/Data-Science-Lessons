@@ -6,8 +6,6 @@
 
 ---
 
-We are all data citizens living in a datafied world.
-
 Todos somos ciudadanos de datos que vivimos en un mundo con datos.
 
 Las tendencias del mercado nos dicen que en el año 2022, 1 de cada 3 organizaciones grandes compro y vendio sus datos a través de [mercados e intercambios](https://www.gartner.com/smarterwithgartner/gartner-top-10-trends-in-data-and-analytics-for-2020/) en línea. Como **desarrolladores de aplicaciones**, nos resultará más fácil y económico integrar conocimientos basados ​​en datos y automatización basada en algoritmos en las experiencias diarias de los usuarios. Pero a medida que la IA se vuelve omnipresente, también necesitaremos comprender los daños potenciales causados ​​por la [utilización](https://www.youtube.com/watch?v=TQHs8SA1qpk) de tales algoritmos como armas a escala.
@@ -171,11 +169,11 @@ Las preguntas para explorar aquí son:
 
 ### 3. Estudios de caso
 
-To put these ethical challenges in real-world contexts, it helps to look at case studies that highlight the potential harms and consequences to individuals and society, when such ethics violations are overlooked. 
+Para poner estos desafíos éticos en contextos del mundo real, es útil observar estudios de casos que resaltan los posibles daños y consecuencias para los individuos y la sociedad, cuando se pasan por alto tales violaciones éticas.
 
-Here are a few examples:
+Aquí están algunos ejemplos:
 
-| Ethics Challenge | Case Study  | 
+| Desafío de ética | Caso de estudio | 
 |--- |--- |
 | **Consentimiento informado** | 1972 - [Estudio de sífilis de Tuskegee](https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study) -  A los hombres afroamericanos que participaron en el estudio se les prometió atención médica gratuita, pero los investigadores los engañaron y no informaron a los sujetos sobre su diagnóstico ni sobre la disponibilidad del tratamiento. Muchos sujetos murieron y sus parejas o niños resultaron afectados; el estudio duró 40 años. | 
 | **Privacidad de datos** |  2007 - El [premio de datos de Netflix](https://www.wired.com/2007/12/why-anonymous-data-sometimes-isnt/) proporcionó a los investigadores 10 millones de clasificaciones de películas anónimas de 50.000 clientes para ayudar a mejorar los algoritmos de recomendación. Sin embargo, los investigadores pudieron correlacionar datos anónimos con datos de identificación personal en conjuntos de datos externos (por ejemplo, comentarios de IMDb), "desanonimizando" efectivamente a algunos suscriptores de Netflix.|
@@ -185,7 +183,7 @@ Here are a few examples:
 | **Ilusión de libre elección** | 2020 -  la aplicación de aprendizaje [ABCmouse pagó 10 millones de dólares para resolver una queja de la FTC](https://www.washingtonpost.com/business/2020/09/04/abcmouse-10-million-ftc-settlement/) en la que los padres se vieron atrapados en el pago de suscripciones que no podían cancelar. Esto ilustra patrones oscuros en las arquitecturas de elección, donde los usuarios fueron empujados hacia elecciones potencialmente dañinas. |
 | **Privacidad de datos y derechos del usuario** | 2021 - [La filtración de datos](https://www.npr.org/2021/04/09/986005820/after-data-breach-exposes-530-million-facebook-says-it-will-not-notify-users) de Facebook expuso datos de 530 millones de usuarios, lo que resultó en un acuerdo de 5 mil millones de dólares para la FTC. Sin embargo, se negó a notificar a los usuarios sobre la infracción que violaba los derechos de los usuarios en materia de transparencia y acceso a los datos. |
 
-Want to explore more case studies? Check out these resources:
+¿Quieres explorar más estudios de casos? Consulte estos recursos:
 * [Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-studies) - dilemas éticos en diversas industrias.
 * [Curso de ética de la ciencia de datos :](https://www.coursera.org/learn/data-science-ethics#syllabus) - exploración de estudios de casos emblemáticos.
 * [Where things have gone wrong](https://deon.drivendata.org/examples/) - lista de verificación de Deon con ejemplos.

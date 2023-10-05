@@ -1,4 +1,4 @@
-## Write A Data Ethics Case Study
+## Escriba un estudio de caso de ética de datos
 
 ## Instructions
 
@@ -17,3 +17,5 @@ En esta tarea, escribirá su propio estudio de caso que refleje un desafío de �
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 Se identifican uno o más desafíos de ética de datos. <br/><br/>El estudio de caso describe claramente un incidente del mundo real que refleja ese desafío y destaca las consecuencias indeseables o los daños que causó. <br/><br/>Hay al menos un recurso vinculado que demuestra que esto ocurrió. | Se identifica un desafío de ética de datos. <br/><br/> Se analiza brevemente al menos un daño o consecuencia relevante. <br/><br/> Sin embargo, la discusión es limitada o carece de pruebas de que haya ocurrido en el mundo real. | Se identifica un desafío de datos. <br/><br/> Sin embargo, la descripción o los recursos no reflejan adecuadamente el desafío ni prueban que ocurre en el mundo real. |
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/02-ethics/assignment.md">tarea</a> de la lección <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/02-ethics/README.md">Introducción a la ética de los datos</a> del curso <a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main"> DATA SCIENCE FOR BEGINNERS</a> de Microsoft.
