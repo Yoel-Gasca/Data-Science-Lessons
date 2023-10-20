@@ -82,7 +82,7 @@ Este diagrama sugiere que, en promedio, la altura de los primera base es mayor q
 
 Para ver cuál es la distribución de nuestros datos, podemos trazar una gráfica llamada histograma . El eje X contendría una cantidad de intervalos de peso diferentes (los llamados contenedores ), y el eje vertical mostraría la cantidad de veces que nuestra muestra de variable aleatoria estuvo dentro de un intervalo determinado.
 
-![Alt text](image.png)
+![Alt text](./img/image6.png)
 
 En este histograma se puede ver que todos los valores se centran en torno a cierto peso medio y cuanto más nos alejamos de ese peso, menos pesos de ese valor se encuentran. Es decir, es muy improbable que el peso de un jugador de béisbol sea muy diferente del peso medio. La variación de las ponderaciones muestra hasta qué punto es probable que las ponderaciones difieran de la media.
 

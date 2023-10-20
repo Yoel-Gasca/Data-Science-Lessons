@@ -19,8 +19,14 @@ En esta tarea, trabajaremos con un pequeño conjunto de datos de pacientes con d
    * [ ] Probar la correlación entre diferentes variables y la progresión de la enfermedad (Y)
    * [ ] Probar la hipótesis de que el grado de progresión de la diabetes es diferente entre hombres y mujeres
 
+<h3><a href="./assignment.ipynb">Notebook: Asignación - Introducción a la Probabilidad y la Estadística</a></h3>
+
+En este notebook adjunto en el enlace esta el desarrollo de esta actividad.
+
 ## Rúbrica
 
 Ejemplar | Adecuado | Necesita mejorar
 --- | --- | -- |
 Todas las tareas requeridas están completas, ilustradas gráficamente y explicadas | La mayoría de las tareas están completas, faltan explicaciones o conclusiones de los gráficos y/o valores obtenidos | Solo se completan las tareas básicas, como el cálculo de la media/varianza y los gráficos básicos, no se sacan conclusiones a partir de los datos |
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/04-stats-and-probability/assignment.md">tarea</a> de la lección <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/04-stats-and-probability/README.md">Una breve introducción a la estadística y la probabilidad</a> del curso <a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main"> DATA SCIENCE FOR BEGINNERS</a> de Microsoft.
