@@ -58,11 +58,11 @@ Cree consultas para devolver la siguiente información:
 
 3. Todos los nombres de aeropuertos con su ciudad y país
 
-
+![Alt text](image-1.png)
 
 4. todos los aeropuertos de Londres, Reino Unido
 
-
+![Alt text](image-3.png)
 
 
 ## Rubric
