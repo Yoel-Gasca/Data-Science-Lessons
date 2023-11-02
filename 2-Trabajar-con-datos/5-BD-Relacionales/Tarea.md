@@ -49,9 +49,21 @@ El esquema de una base de datos es el diseño y la estructura de la tabla. La ba
 Cree consultas para devolver la siguiente información:
 
 1. Todos los nombres de ciudades en la tabla `Cities`
-1. todas las ciudades de Irlanda en la tabla `Cities`
-1. Todos los nombres de aeropuertos con su ciudad y país
-1. todos los aeropuertos de Londres, Reino Unido
+
+![Alt text](image.png)
+
+2. todas las ciudades de Irlanda en la tabla `Cities`
+
+![Alt text](image-2.png)
+
+3. Todos los nombres de aeropuertos con su ciudad y país
+
+
+
+4. todos los aeropuertos de Londres, Reino Unido
+
+
+
 
 ## Rubric
 
