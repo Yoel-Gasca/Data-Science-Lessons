@@ -50,22 +50,24 @@ Cree consultas para devolver la siguiente información:
 
 1. Todos los nombres de ciudades en la tabla `Cities`
 
-![Alt text](image.png)
+![Alt text](./img/image.png)
 
 2. todas las ciudades de Irlanda en la tabla `Cities`
 
-![Alt text](image-2.png)
+![Alt text](./img/image-2.png)
 
 3. Todos los nombres de aeropuertos con su ciudad y país
 
-![Alt text](image-1.png)
+![Alt text](./img/image-1.png)
 
 4. todos los aeropuertos de Londres, Reino Unido
 
-![Alt text](image-3.png)
+![Alt text](./img/image-3.png)
 
 
 ## Rubric
 
 | Ejemplar | Adecuado | Necesita mejorar |
 | --------- | -------- | ----------------- |
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/2-Working-With-Data/05-relational-databases/assignment.md">tarea</a> de la lección <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/2-Working-With-Data/05-relational-databases/README.md">Trabajar con datos: bases de datos relacionales</a> del curso <a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main"> DATA SCIENCE FOR BEGINNERS</a> de Microsoft.

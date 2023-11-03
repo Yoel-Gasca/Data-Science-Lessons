@@ -17,3 +17,5 @@ A la [hoja de cálculo de Coca Cola Co](./CocaColaCo.xlsx) le faltan algunos cá
 
 Ejemplar | Adecuado | Necesita mejorar
 --- | --- | -- |
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/2-Working-With-Data/06-non-relational/assignment.md">tarea</a> de la lección <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/2-Working-With-Data/06-non-relational/README.md">Trabajar con datos: datos no relacionales<a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main"> DATA SCIENCE FOR BEGINNERS</a> de Microsoft.
