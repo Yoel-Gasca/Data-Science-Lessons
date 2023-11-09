@@ -13,6 +13,11 @@ A la [hoja de cálculo de Coca Cola Co](./CocaColaCo.xlsx) le faltan algunos cá
 
 [Crédito de la fuente de datos a Yiyi Wang](https://www.kaggle.com/yiyiwang0826/cocacola-excel)
 
+### Calculos en Excel
+
+Se realizaron los calculos para completar la informacion faltante: <a href="./CocaColaCo.xlsx">Ver Excel</a>
+![Excel Coca-cola](image.png)
+
 ## Rúbrica
 
 Ejemplar | Adecuado | Necesita mejorar
