@@ -1,20 +1,21 @@
-# Assignment for Data Processing in Python
+# Asignación para el procesamiento de datos en Python
 
-In this assignment, we will ask you to elaborate on the code we have started developing in our challenges. The assignment consists of two parts:
+En esta tarea, te pediremos que expliques el código que hemos comenzado a desarrollar en nuestros desafíos. La tarea consta de dos partes:
 
 ## COVID-19 Spread Modelling
 
- - [ ] Plot *R<sub>t</sub>* graphs for 5-6 different countries on one plot for comparison, or using several plots side-by-side
- - [ ] See how the number of deaths and recoveries correlate with number of infected cases.
- - [ ] Find out how long a typical disease lasts by visually correlating infection rate and deaths rate and looking for some anomalies. You may need to look at different countries to find that out.
- - [ ] Calculate the fatality rate and how it changes over time. *You may want to take into account the length of the disease in days to shift one time series before doing calculations*
+ - [ ]Trazar gráficos *R<sub>t</sub>* para 5-6 países diferentes en un gráfico para comparar, o utilizando varios gráficos uno al lado del otro
+ - [ ] Vea cómo el número de muertes y recuperaciones se correlaciona con el número de casos infectados.
+ - [ ] Averigüe cuánto dura una enfermedad típica correlacionando visualmente la tasa de infección y la tasa de mortalidad y buscando algunas anomalías. Es posible que tengas que buscar en diferentes países para averiguarlo.
+ - [ ] Calcule la tasa de mortalidad y cómo cambia con el tiempo. *Es posible que desee tener en cuenta la duración de la enfermedad en días para cambiar una serie temporal antes de hacer cálculos*
 
 ## COVID-19 Papers Analysis
 
-- [ ] Build co-occurrence matrix of different medications, and see which medications often occur together (i.e. mentioned in one abstract). You can modify the code for building co-occurrence matrix for medications and diagnoses.
-- [ ] Visualize this matrix using heatmap.
-- [ ] As a stretch goal, visualize the co-occurrence of medications using [chord diagram](https://en.wikipedia.org/wiki/Chord_diagram). [This library](https://pypi.org/project/chord/) may help you draw a chord diagram.
-- [ ] As another stretch goal, extract dosages of different medications (such as **400mg** in *take 400mg of chloroquine daily*) using regular expressions, and build dataframe that shows different dosages for different medications. **Note**: consider numeric values that are in close textual vicinity of the medicine name.
+- [ ] Construya una matriz de co-ocurrencia de diferentes medicamentos y vea qué medicamentos a menudo ocurren juntos (es decir, mencionados en un resumen). Puede modificar el código para crear una matriz de co-ocurrencia para medicamentos y diagnósticos.
+- [ ] Visualice esta matriz usando el mapa de calor.
+- [ ] Como objetivo ambicioso, visualice la co-ocurrencia de medicamentos usando [diagrama de acordes](https://en.wikipedia.org/wiki/Chord_diagram). [Esta biblioteca](https://pypi.org/project/chord/) puede ayudarte a dibujar un diagrama de acordes.
+- [ ]Como otro objetivo ambicioso, extraiga dosis de diferentes medicamentos (como **400 mg** en *tome 400 mg de cloroquina al día*) utilizando expresiones regulares y cree un marco de datos que muestre diferentes dosis para diferentes medicamentos. **Nota**: tenga en cuenta los valores numéricos que se encuentran en las proximidades textuales del nombre del medicamento.
+
 
 ## Rubric
 
