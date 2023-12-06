@@ -1,14 +1,19 @@
-# Evaluating Data from a Form
+# Evaluación de datos de un formulario
 
-A client has been testing a [small form](index.html) to gather some basic data about their client-base. They have brought their findings to you to validate the data they have gathered. You can open the `index.html` page in the browser to take a look at the form.
+Un cliente ha estado probando un [formulario pequeño](index.html) para recopilar algunos datos básicos sobre su base de clientes. Le han traído sus hallazgos para validar los datos que han recopilado. Puede abrir el archivo `index.html` en el navegador para echar un vistazo al formulario.
 
-You have been provided a [dataset of csv records](../../data/form.csv) that contain entries from the form as well as some basic visualizations. The client pointed out that some of the visualizations look incorrect but they're unsure about how to resolve them. You can explore it in the [assignment notebook](assignment.ipynb).
+Se le ha proporcionado un [conjunto de datos de registros csv](../../data/form.csv) que contienen entradas del formulario, así como algunas visualizaciones básicas. El cliente señaló que algunas de las visualizaciones parecen incorrectas, pero no están seguros de cómo resolverlas. Puedes explorarlo en el [cuaderno de tarea](assignment.ipynb).
 
-## Instructions
+## Instrucciones
 
-Use the techniques in this lesson to make recommendations about the form so it captures accurate and consistent information. 
+Utilice las técnicas de esta lección para hacer recomendaciones sobre el formulario de modo que capture información precisa y coherente.
 
-## Rubric
+<h3><a href="./assignment.ipynb">Notebook: Asignación - Preparación de datos</a></h3>
+
+
+## Rúbrica
 
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/2-Working-With-Data/08-data-preparation/assignment.md">tarea</a> de la lección <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/2-Working-With-Data/08-data-preparation/README.md">Trabajar con datos: preparación de datos<a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main"> DATA SCIENCE FOR BEGINNERS</a> de Microsoft.
