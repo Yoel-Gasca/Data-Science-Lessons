@@ -4,6 +4,8 @@
 
 En esta lección, has trabajado con gráficos de líneas, gráficos de dispersión y gráficos de barras para mostrar hechos interesantes sobre este conjunto de datos. En esta asignación, profundiza en el conjunto de datos para descubrir un hecho sobre un tipo de ave determinado. Por ejemplo, crea un cuaderno que visualice todos los datos interesantes que puedas descubrir sobre los gansos de nieve. Utiliza los tres gráficos mencionados anteriormente para contar una historia en tu cuaderno.
 
+<h3><a href="./asignament.ipynb">Notebook: Asignación - Visualizacion de cantidades</a></h3>
+
 ## Rúbrica
 
 Ejemplar | Adecuado | Necesita mejorar
