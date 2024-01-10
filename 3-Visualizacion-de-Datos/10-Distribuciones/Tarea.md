@@ -3,6 +3,9 @@
 ## Instrucciones
 
 Hasta ahora, has trabajado con el conjunto de datos de aves de Minnesota para descubrir información sobre las cantidades de aves y la densidad de población. Practica tu aplicación de estas técnicas probando un conjunto de datos diferente, quizás procedente de [Kaggle](https://www.kaggle.com/). Construye un cuaderno para contar una historia sobre este conjunto de datos, y asegúrate de utilizar histogramas al hablar de él.
+
+<h3><a href="./assignament.ipynb">Notebook: Asignación - Visualización de Distribuciones</a></h3>
+
 ## Rúbrica
 
 Ejemplar | Adecuado | Necesita mejorar
