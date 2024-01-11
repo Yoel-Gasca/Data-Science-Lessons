@@ -4,6 +4,8 @@
 
 ¿Sabías que puedes crear gráficos de donas, pastel y waffle en Excel? Utilizando un conjunto de datos de su elección, crea estos tres gráficos directamente en una hoja de cálculo de Excel.
 
+<h3><a href="./mushrooms.xlsx">Archivo de Excel: Asignación - Visualización de proporciones</a></h3>
+
 ## Rúbrica
 
 | Ejemplar | Adecuado | Necesita mejorar
