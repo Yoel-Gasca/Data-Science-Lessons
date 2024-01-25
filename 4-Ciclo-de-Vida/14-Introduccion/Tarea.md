@@ -8,7 +8,9 @@ Su equipo se encuentra en la etapa [de captura](https://github.com/microsoft/Dat
 En este directorio hay un cuaderno que utiliza Python para cargar datos de viajes en taxi amarillo de la Comisión de Taxis y Limusinas de Nueva York . También puede abrir el archivo de datos del taxi en un editor de texto o en un software de hoja de cálculo como Excel.
 
 ## Instrucciones
-Evalúe si los datos de este conjunto de datos pueden ayudar a responder la pregunta.
-Explore el catálogo de datos abiertos de la ciudad de Nueva York . Identifique un conjunto de datos adicional que podría ser útil para responder la pregunta del cliente.
-Escribe 3 preguntas que le harías al cliente para obtener más aclaraciones y una mejor comprensión del problema.
+- Evalúe si los datos de este conjunto de datos pueden ayudar a responder la pregunta.
+- Explore el [catálogo de datos abiertos de la ciudad de Nueva York](https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc). Identifique un conjunto de datos adicional que podría ser útil para responder la pregunta del cliente.
+- Escribe 3 preguntas que le harías al cliente para obtener más aclaraciones y una mejor comprensión del problema.
 Consulte el diccionario del conjunto de datos y la guía del usuario para obtener más información sobre los datos.
+
+<h3><a href="./notebook.ipynb">Notebook: Asignación - Introduccion al ciclo de vida</a></h3>
