@@ -14,3 +14,5 @@ En este directorio hay un cuaderno que utiliza Python para cargar datos de viaje
 Consulte el diccionario del conjunto de datos y la guía del usuario para obtener más información sobre los datos.
 
 <h3><a href="./notebook.ipynb">Notebook: Asignación - Introduccion al ciclo de vida</a></h3>
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/4-Data-Science-Lifecycle/14-Introduction/assignment.md">tarea</a> de la lección <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/4-Data-Science-Lifecycle/14-Introduction/README.md">Ciclo de vida: Introducción al ciclo de vida de la ciencia de datos<a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main"> DATA SCIENCE FOR BEGINNERS</a> de Microsoft.

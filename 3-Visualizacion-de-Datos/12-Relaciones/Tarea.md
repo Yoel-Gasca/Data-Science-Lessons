@@ -10,3 +10,5 @@ En esta lección has empezado a estudiar un conjunto de datos sobre las abejas y
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | El cuaderno se presenta con una historia anotada con al menos tres gráficos diferentes que muestran aspectos del conjunto de datos, estado sobre estado y año sobre año | El cuaderno carece de uno de estos elementos | El cuaderno carece de dos de estos elementos
 
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/3-Data-Visualization/12-visualization-relationships/translations/assignment.es.md">tarea</a> de la lección <a href="https://github.com/microsoft/Data-Science-For-Beginners/blob/main/3-Data-Visualization/12-visualization-relationships/translations/README.es.md">Visualización de Datos: Visualización de Relaciones<a href="https://github.com/microsoft/Data-Science-For-Beginners/tree/main"> DATA SCIENCE FOR BEGINNERS</a> de Microsoft.
+
