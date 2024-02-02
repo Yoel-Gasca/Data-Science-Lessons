@@ -16,6 +16,8 @@ Utilice algunas de las técnicas de esta lección para hacer su propio EDA en el
 Con base en lo que se ha proporcionado hasta ahora, ¿parecen los datos proporcionar alguna evidencia de un comportamiento de inflexión estacional?
 
 
+<h3><a href="./assignament.ipynb">Notebook: Asignación - Ciclo de vida de la ciencia de datos: análisis</a></h3>
+
 ### Respuestas a preguntas
 Con la información recopilada y el análisis exploratorio inicial, podemos abordar las preguntas planteadas:
 
