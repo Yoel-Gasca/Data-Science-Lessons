@@ -4,6 +4,8 @@
 
 En esta lección, aprendió que hay varios proveedores de nube importantes. Haz una investigación de mercado para descubrir qué puede ofrecer cada uno al Data Scientist. ¿Son comparables las ofertas? Escriba un artículo para describir las ofertas de tres o más de estos proveedores de nube.
 
+h3><a href="./Proveedores de Nube.docx">Documento: Asignación - Introducción a la ciencia de datos en la nube</a></h3>
+
 ## Rúbrica
 
 Ejemplar | Adecuado | Necesita mejorar
