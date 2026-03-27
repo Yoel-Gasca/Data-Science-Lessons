@@ -1,6 +1,6 @@
 ## Escriba un estudio de caso de ética de datos
 
-## Instructions
+## Instrucciones
 
 Ha aprendido sobre varios [desafíos de la ética de los datos ](README.md#2-ethics-challenges) que ha visto algunos ejemplos de [estudios de casos](README.md#3-case-studies) que reflejan los desafíos de la ética de los datos en contextos del mundo real.
 
