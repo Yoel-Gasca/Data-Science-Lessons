@@ -18,9 +18,6 @@ La ética de los datos es ahora una barrera necesaria para la ciencia y la ingen
 
 En esta lección, exploraremos el fascinante área de la ética de los datos, desde conceptos y desafíos centrales hasta estudios de casos y conceptos de IA aplicados como la gobernanza, que ayudan a establecer una cultura ética en equipos y organizaciones que trabajan con datos e IA.
 
-
-## [Pre-lecture quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/2) 🎯
-
 ## Definiciones basicas
 
 Comencemos por comprender la terminología básica.
@@ -243,8 +240,6 @@ Tenga en cuenta que sigue existiendo una brecha intangible entre el cumplimiento
 Esto último requiere [collaborative approaches to defining ethics cultures](https://towardsdatascience.com/why-ai-ethics-requires-a-culture-driven-approach-26f451afa29f) que creen conexiones emocionales y valores compartidos consistentes entre las organizaciones de la industria. Esto exige [culturas de ética de datos más formalizadas](https://www.codeforamerica.org/news/formalizing-an-ethical-data-culture/) en las organizaciones, permitiendo a cualquiera tirar [del cordón de Andon](https://en.wikipedia.org/wiki/Andon_(manufacturing))  (para plantear inquietudes éticas en las primeras etapas del proceso) y hacer de las evaluaciones éticas (por ejemplo, en la contratación) un criterio central en la formación del equipo en proyectos de IA.
 
 ---
-## [Post-lecture quiz](https://purple-hill-04aebfb03.1.azurestaticapps.net/quiz/3) 🎯
-
 ## Revisión y autoestudio
 
 Los cursos y libros ayudan a comprender los conceptos y desafíos básicos de la ética, mientras que los estudios de casos y las herramientas ayudan con las prácticas éticas aplicadas en contextos del mundo real. Aquí hay algunos recursos para comenzar.
