@@ -10,6 +10,8 @@ Siga las indicaciones de esta asignación para identificar y clasificar los dato
 
 **Tipos de fuentes**: Primaria o Secundaria
 
+---
+
 1. Una empresa ha sido adquirida y ahora tiene una empresa matriz. Los científicos de datos han recibido una hoja de cálculo de los números de teléfono de los clientes de la empresa matriz.
 
 <strong>Tipo de estructura:</strong> Estructurados
